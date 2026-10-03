@@ -1,0 +1,10 @@
+.git/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+BUILD_WORKSPACE.txt
+.DS_Store
+*.replacement

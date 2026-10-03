@@ -1,0 +1,121 @@
+{
+  "profile": "paper",
+  "dimensions": {
+    "width_mm": 180.0,
+    "height_mm": 110.0,
+    "dpi": 300.0,
+    "pixels": [
+      2126,
+      1299
+    ]
+  },
+  "outputs": [
+    "figure.png",
+    "figure.pdf",
+    "figure.svg",
+    "figure.render-report.json"
+  ],
+  "images": [
+    {
+      "layer": 2,
+      "path": "../art/field-scene.png",
+      "source_pixels": [
+        1536,
+        1024
+      ],
+      "placed_bounds_mm": [
+        10.75,
+        19.0,
+        124.5,
+        83.0
+      ],
+      "effective_dpi": 313.3686746987952
+    }
+  ],
+  "texts": [
+    {
+      "layer": 0,
+      "type": "text",
+      "text": "Environmental observation",
+      "font": "title",
+      "font_size_pt": 16.0,
+      "bounds_mm": [
+        8.0,
+        6.0,
+        65.30656328667534,
+        4.492625
+      ]
+    },
+    {
+      "layer": 3,
+      "type": "text",
+      "text": "Satellite observation",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        144.0,
+        26.0,
+        26.236076766120057,
+        2.564253472222223
+      ]
+    },
+    {
+      "layer": 5,
+      "type": "text",
+      "text": "Weather station",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        6.0,
+        25.0,
+        19.931939599778914,
+        2.564253472222223
+      ]
+    },
+    {
+      "layer": 7,
+      "type": "text",
+      "text": "River-level gauges",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        144.0,
+        64.0,
+        23.360606825086805,
+        3.598333333333329
+      ]
+    },
+    {
+      "layer": 9,
+      "type": "text",
+      "text": "Subsurface context",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        144.0,
+        85.0,
+        24.56016215854221,
+        2.568111979166673
+      ]
+    },
+    {
+      "layer": 11,
+      "type": "text",
+      "text": "Conceptual scene",
+      "font": "body",
+      "font_size_pt": 8.5,
+      "bounds_mm": [
+        7.0,
+        105.0,
+        26.399139702690974,
+        2.9020933159722233
+      ]
+    }
+  ],
+  "bounds_warnings": [],
+  "missing_resources": [],
+  "errors": [],
+  "limitations": [
+    "Raster illustrations remain bitmap assets in all exports."
+  ]
+}

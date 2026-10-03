@@ -1,0 +1,26 @@
+[
+  {
+    "name": "method-atlas",
+    "prompt": "Original hand-drawn scientific illustration. Pure white #FFFFFF background, slightly irregular fine dark-charcoal #252525 pen outlines, simple flat pastel powder-blue #BFD8F0, lavender #DCC7EB, butter-yellow #FFE5A3, muted-orange #F2B37E and mint #C8E6C1 fills. Warm, natural whiteboard / academic notebook line drawing with a small amount of pencil hatch, charming but technically legible and restrained. No paper texture, gradients, glossy3D, glow, heavy shadows, repeated dashboard cards or mascot. NO TEXT, LETTERS, NUMERALS, axes, charts, equations, logos, watermarks. Leave clean white margins. Original conceptual illustration, not experimental evidence. Landscape 3:2 sheet of six separate object vignettes in an EXACT 3columns by2rows grid, each vignette centered inside own cell separated by ample white space, no frames or connectors. Row1 left: handheld camera capturing a simple stacked parcel trolley in profile with visibly separate floor and cargo-top levels. Row1 middle: a folded topographic map with simple height contours and a small tripod ground-reference marker (no arrows). Row1 right: camera calibration and aligned grids shown as two partially overlapping flat square pixel planes and a tiny camera lens, physically clear. Row2 left: geometric measurement shown as a cropped parcel pointcloud beside flat floor points with tiny axis-free ruler icon (no scales/numerals). Row2 middle: a magnifying glass over a flat gray document with a single mint-green checkmark, quality verification. Row2 right: a field staff member holding a clipboard and examining a small screen, no portrait. Each illustration is a distinct independent reusable cutout on white, consistent sketch style.",
+    "generator": "built-in image_gen",
+    "generated_date": "2026-10-04",
+    "kind": "original conceptual illustration",
+    "file": "method-atlas.png"
+  },
+  {
+    "name": "field-scene",
+    "prompt": "Original hand-drawn scientific illustration. Pure white #FFFFFF background, slightly irregular fine dark-charcoal #252525 pen outlines, simple flat pastel powder-blue #BFD8F0, lavender #DCC7EB, butter-yellow #FFE5A3, muted-orange #F2B37E and mint #C8E6C1 fills. Warm, natural whiteboard / academic notebook line drawing with a small amount of pencil hatch, charming but technically legible and restrained. No paper texture, gradients, glossy3D, glow, heavy shadows, repeated dashboard cards or mascot. NO TEXT, LETTERS, NUMERALS, axes, charts, equations, logos, watermarks. Leave clean white margins. Original conceptual illustration, not experimental evidence. Wide landscape 3:2 conceptual watershed scientific scene. A graceful winding river from modest mountain foothills upperleft to a plain right. One scientist standing safely on riverbank in foreground holding a notebook and smartphone. A weather mast at left, two unobtrusive river-level gauge poles in river, satellite very small above scene indicating remote observation with thin dotted observation beam toward terrain. Show clean terrain cross-section at front with thin blue groundwater line, pale green roots/land, geographically coherent riverbanks. The river and land dominate, objects simplified instead of detailed realisticpainting. Leave generous white sky and outside margin for later vector annotations. No data values and no before-after story.",
+    "generator": "built-in image_gen",
+    "generated_date": "2026-10-04",
+    "kind": "original conceptual illustration",
+    "file": "field-scene.png"
+  },
+  {
+    "name": "signal-scene",
+    "prompt": "Original hand-drawn scientific illustration. Pure white #FFFFFF background, slightly irregular fine dark-charcoal #252525 pen outlines, simple flat pastel powder-blue #BFD8F0, lavender #DCC7EB, butter-yellow #FFE5A3, muted-orange #F2B37E and mint #C8E6C1 fills. Warm, natural whiteboard / academic notebook line drawing with a small amount of pencil hatch, charming but technically legible and restrained. No paper texture, gradients, glossy3D, glow, heavy shadows, repeated dashboard cards or mascot. NO TEXT, LETTERS, NUMERALS, axes, charts, equations, logos, watermarks. Leave clean white margins. Original conceptual illustration, not experimental evidence. Wide 3:2 landscape close-up illustration of an educational water-level sensing tabletop apparatus, fully isolated on purewhite. A transparent rectangular water reservoir center-left with clearly horizontal blue water surface and modest simple gentle wave. A small sensor held ABOVE the tank by a lightweight stand projects three fine dashed measurement rays DOWN toward the water surface. A cable runs toward a small laptop at right with completely BLANK white screen reserved for later graphic labels. A field notebook and pencil lowerleft. High-quality hand-drawn scientificcomic, clearphysicalarrangement, flatpastelcolors, no numericruler, no waveform, no charts, no methodresult, no excessdecorativeobjects. This is an illustrative tabletop arrangement, not a real experiment.",
+    "generator": "built-in image_gen",
+    "generated_date": "2026-10-04",
+    "kind": "original conceptual illustration",
+    "file": "signal-scene.png"
+  }
+]

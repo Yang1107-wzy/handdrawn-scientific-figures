@@ -1,0 +1,140 @@
+{
+  "profile": "ppt",
+  "dimensions": {
+    "width_mm": 338.666667,
+    "height_mm": 190.5,
+    "dpi": 288.0,
+    "pixels": [
+      3840,
+      2160
+    ]
+  },
+  "outputs": [
+    "slide.png",
+    "slide.pdf",
+    "slide.svg",
+    "slide.render-report.json",
+    "slide.pptx"
+  ],
+  "images": [
+    {
+      "layer": 4,
+      "path": "../art/signal-scene.png",
+      "source_pixels": [
+        1536,
+        1024
+      ],
+      "placed_bounds_mm": [
+        14.886153281060611,
+        65.80909090909091,
+        137.67954545454546,
+        91.78636363636365
+      ],
+      "effective_dpi": 283.3710691823899
+    },
+    {
+      "layer": 6,
+      "path": "plot-ppt.png",
+      "source_pixels": [
+        1888,
+        1165
+      ],
+      "placed_bounds_mm": [
+        169.3333335,
+        65.82435615471118,
+        159.92592608333334,
+        98.68310587239583
+      ],
+      "effective_dpi": 299.85882323427506
+    }
+  ],
+  "texts": [
+    {
+      "layer": 0,
+      "type": "text",
+      "text": "Illustrative water-level signals",
+      "font": "title",
+      "font_size_pt": 30.0,
+      "bounds_mm": [
+        15.051851866666668,
+        10.39090909090909,
+        142.17580656687417,
+        11.29274739583333
+      ]
+    },
+    {
+      "layer": 2,
+      "type": "text",
+      "text": "Synthetic teaching example with an analytic reference signal.",
+      "font": "body",
+      "font_size_pt": 18.0,
+      "bounds_mm": [
+        15.051851866666668,
+        34.63636363636364,
+        195.53857617187498,
+        6.145609374999999
+      ]
+    },
+    {
+      "layer": 3,
+      "type": "text",
+      "text": "Conceptual apparatus",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        13.170370383333335,
+        51.95454545454546,
+        65.39572408040364,
+        8.678333333333335
+      ]
+    },
+    {
+      "layer": 5,
+      "type": "text",
+      "text": "Every point comes from CSV",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        174.97777795000002,
+        51.95454545454546,
+        88.29116894531249,
+        8.695531249999995
+      ]
+    },
+    {
+      "layer": 7,
+      "type": "text",
+      "text": "Art explains the apparatus;\nCSV fixes every plotted point.",
+      "font": "body",
+      "font_size_pt": 18.0,
+      "bounds_mm": [
+        13.170370383333335,
+        166.25454545454545,
+        93.36546386718749,
+        14.400609374999988
+      ]
+    },
+    {
+      "layer": 8,
+      "type": "math",
+      "text": "$u(t)=1.2+0.3\\sin(2\\pi t/24)$",
+      "font": "body",
+      "font_size_pt": 20.0,
+      "bounds_mm": [
+        173.09629646666667,
+        169.71818181818182,
+        79.92456163194444,
+        7.055555555555543
+      ]
+    }
+  ],
+  "bounds_warnings": [],
+  "missing_resources": [],
+  "errors": [],
+  "limitations": [
+    "Raster illustrations remain bitmap assets in all exports.",
+    "PPTX MathText formulas are raster images; PDF/SVG formulas remain vector.",
+    "PPTX text is editable but fonts are referenced, not embedded; install bundled fonts on the viewing device.",
+    "PPTX decorative rough rectangles use editable straight outlines."
+  ]
+}

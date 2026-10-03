@@ -1,0 +1,160 @@
+{
+  "profile": "paper",
+  "layers": [
+    {
+      "type": "text",
+      "text": "Environmental observation",
+      "x": 8,
+      "y": 6,
+      "font": "title",
+      "font_size": 16
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          8,
+          14
+        ],
+        [
+          33.9,
+          14.3
+        ],
+        [
+          61.28,
+          13.8
+        ],
+        [
+          82,
+          14
+        ]
+      ],
+      "color": "#C8E6C1",
+      "line_width": 2.4
+    },
+    {
+      "type": "image",
+      "path": "../art/field-scene.png",
+      "x": 7,
+      "y": 19,
+      "width": 132,
+      "height": 83
+    },
+    {
+      "type": "text",
+      "text": "Satellite observation",
+      "x": 144,
+      "y": 26,
+      "font": "hand",
+      "font_size": 10,
+      "max_width": 29
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          143,
+          37
+        ],
+        [
+          113,
+          37
+        ],
+        [
+          95.0,
+          24.9
+        ]
+      ],
+      "color": "#55768F",
+      "line_width": 0.85
+    },
+    {
+      "type": "text",
+      "text": "Weather station",
+      "x": 6,
+      "y": 25,
+      "font": "hand",
+      "font_size": 10,
+      "max_width": 35
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          19,
+          31
+        ],
+        [
+          19.8,
+          40.6
+        ]
+      ],
+      "color": "#55768F",
+      "line_width": 0.85
+    },
+    {
+      "type": "text",
+      "text": "River-level gauges",
+      "x": 144,
+      "y": 64,
+      "font": "hand",
+      "font_size": 10,
+      "max_width": 29
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          143,
+          76
+        ],
+        [
+          114,
+          76
+        ],
+        [
+          112.1,
+          64.8
+        ]
+      ],
+      "color": "#55768F",
+      "line_width": 0.85
+    },
+    {
+      "type": "text",
+      "text": "Subsurface context",
+      "x": 144,
+      "y": 85,
+      "font": "hand",
+      "font_size": 10,
+      "max_width": 29
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          143,
+          98
+        ],
+        [
+          114,
+          98
+        ],
+        [
+          105.6,
+          89.7
+        ]
+      ],
+      "color": "#62977A",
+      "line_width": 0.85
+    },
+    {
+      "type": "text",
+      "text": "Conceptual scene",
+      "x": 7,
+      "y": 105,
+      "font": "body",
+      "font_size": 8.5
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "profile": "paper",
+  "layers": [
+    {
+      "type": "text",
+      "text": "Field height estimation",
+      "x": 8,
+      "y": 6,
+      "font": "title",
+      "font_size": 16
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          8,
+          14
+        ],
+        [
+          35.65,
+          14.3
+        ],
+        [
+          64.88,
+          13.8
+        ],
+        [
+          87,
+          14
+        ]
+      ],
+      "color": "#FFE5A3",
+      "line_width": 2.4
+    },
+    {
+      "type": "text",
+      "text": "Conceptual teaching workflow with a shared vertical reference.",
+      "x": 8,
+      "y": 19,
+      "font": "body",
+      "font_size": 8.5
+    },
+    {
+      "type": "image",
+      "path": "../art/method-1.png",
+      "x": 7,
+      "y": 31,
+      "width": 30,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "path": "../art/method-2.png",
+      "x": 7,
+      "y": 64,
+      "width": 30,
+      "height": 25
+    },
+    {
+      "type": "image",
+      "path": "../art/method-3.png",
+      "x": 48,
+      "y": 40,
+      "width": 24,
+      "height": 27
+    },
+    {
+      "type": "image",
+      "path": "../art/method-4.png",
+      "x": 82,
+      "y": 30,
+      "width": 34,
+      "height": 38
+    },
+    {
+      "type": "image",
+      "path": "../art/method-5.png",
+      "x": 121,
+      "y": 40,
+      "width": 21,
+      "height": 27
+    },
+    {
+      "type": "image",
+      "path": "../art/method-6.png",
+      "x": 150,
+      "y": 37,
+      "width": 24,
+      "height": 27
+    },
+    {
+      "type": "text",
+      "text": "Field camera",
+      "x": 7,
+      "y": 59,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "text",
+      "text": "Ground reference",
+      "x": 7,
+      "y": 90,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "text",
+      "text": "Align inputs",
+      "x": 48,
+      "y": 70,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "text",
+      "text": "Estimate height",
+      "x": 80,
+      "y": 70,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "text",
+      "text": "Quality check",
+      "x": 119,
+      "y": 70,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "text",
+      "text": "Staff review",
+      "x": 150,
+      "y": 69,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          38,
+          44
+        ],
+        [
+          47,
+          44
+        ]
+      ],
+      "color": "#55768F",
+      "line_width": 0.85
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          38,
+          78
+        ],
+        [
+          45,
+          78
+        ],
+        [
+          45,
+          48
+        ],
+        [
+          47,
+          48
+        ]
+      ],
+      "color": "#55768F",
+      "line_width": 0.85
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          74,
+          50
+        ],
+        [
+          81,
+          50
+        ]
+      ],
+      "color": "#252525",
+      "line_width": 0.85
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          116,
+          50
+        ],
+        [
+          120,
+          50
+        ]
+      ],
+      "color": "#252525",
+      "line_width": 0.85
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          142,
+          50
+        ],
+        [
+          149,
+          50
+        ]
+      ],
+      "color": "#62977A",
+      "line_width": 0.85
+    },
+    {
+      "type": "text",
+      "text": "Pass",
+      "x": 142,
+      "y": 44,
+      "font": "body",
+      "font_size": 8.5
+    },
+    {
+      "type": "arrow",
+      "points": [
+        [
+          139,
+          63
+        ],
+        [
+          146,
+          63
+        ],
+        [
+          146,
+          98
+        ],
+        [
+          76,
+          98
+        ],
+        [
+          76,
+          60
+        ],
+        [
+          72,
+          60
+        ]
+      ],
+      "color": "#C48455",
+      "line_width": 0.85
+    },
+    {
+      "type": "text",
+      "text": "Fail: realign",
+      "x": 82,
+      "y": 91,
+      "font": "hand",
+      "font_size": 10
+    },
+    {
+      "type": "math",
+      "text": "h = z_{\\mathrm{top}} - z_{\\mathrm{floor}}",
+      "x": 80,
+      "y": 80,
+      "font_size": 10
+    },
+    {
+      "type": "text",
+      "text": "Exact labels and feedback are editable layers.",
+      "x": 8,
+      "y": 103,
+      "font": "body",
+      "font_size": 8.5
+    }
+  ]
+}

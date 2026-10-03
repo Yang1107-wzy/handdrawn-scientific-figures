@@ -1,0 +1,10 @@
+{
+  "kind": "deterministic synthetic teaching data; not experimental observations",
+  "rows": 25,
+  "time_unit": "h",
+  "value_unit": "m",
+  "analytic": "1.2 + 0.3 * sin(2*pi*t/24)",
+  "illustrative": "analytic + 0.03 * cos(pi*t/3)",
+  "file": "teaching_signal.csv",
+  "sha256": "e5d9bb2077c3c788ee0df0fbc91c5e33cd0f723b12f8a60d3c19c1a030611528"
+}

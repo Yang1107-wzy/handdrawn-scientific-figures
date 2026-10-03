@@ -1,0 +1,125 @@
+{
+  "profile": "ppt",
+  "dimensions": {
+    "width_mm": 338.666667,
+    "height_mm": 190.5,
+    "dpi": 288.0,
+    "pixels": [
+      3840,
+      2160
+    ]
+  },
+  "outputs": [
+    "slide.png",
+    "slide.pdf",
+    "slide.svg",
+    "slide.render-report.json",
+    "slide.pptx"
+  ],
+  "images": [
+    {
+      "layer": 2,
+      "path": "../art/field-scene.png",
+      "source_pixels": [
+        1536,
+        1024
+      ],
+      "placed_bounds_mm": [
+        29.54246646515152,
+        32.904545454545456,
+        215.61136363636365,
+        143.7409090909091
+      ],
+      "effective_dpi": 180.9477911646586
+    }
+  ],
+  "texts": [
+    {
+      "layer": 0,
+      "type": "text",
+      "text": "Environmental observation",
+      "font": "title",
+      "font_size_pt": 30.0,
+      "bounds_mm": [
+        15.051851866666668,
+        10.39090909090909,
+        122.44980616251625,
+        8.423671875
+      ]
+    },
+    {
+      "layer": 3,
+      "type": "text",
+      "text": "Satellite observation",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        270.9333336,
+        45.02727272727273,
+        34.86598939005533,
+        17.16087499999999
+      ]
+    },
+    {
+      "layer": 5,
+      "type": "text",
+      "text": "Weather station",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        11.288888900000002,
+        43.29545454545455,
+        47.83665503946939,
+        6.1542083333333295
+      ]
+    },
+    {
+      "layer": 7,
+      "type": "text",
+      "text": "River-level gauges",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        270.9333336,
+        110.83636363636364,
+        33.48539278157551,
+        17.619927083333323
+      ]
+    },
+    {
+      "layer": 9,
+      "type": "text",
+      "text": "Subsurface context",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        270.9333336,
+        147.20454545454547,
+        33.222398498535156,
+        17.077531249999993
+      ]
+    },
+    {
+      "layer": 11,
+      "type": "text",
+      "text": "Conceptual scene",
+      "font": "body",
+      "font_size_pt": 18.0,
+      "bounds_mm": [
+        13.170370383333335,
+        181.8409090909091,
+        55.90406054687499,
+        6.145609374999992
+      ]
+    }
+  ],
+  "bounds_warnings": [],
+  "missing_resources": [],
+  "errors": [],
+  "limitations": [
+    "Raster illustrations remain bitmap assets in all exports.",
+    "PPTX MathText formulas are raster images; PDF/SVG formulas remain vector.",
+    "PPTX text is editable but fonts are referenced, not embedded; install bundled fonts on the viewing device.",
+    "PPTX decorative rough rectangles use editable straight outlines."
+  ]
+}

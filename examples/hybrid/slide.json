@@ -1,0 +1,91 @@
+{
+  "profile": "ppt",
+  "layers": [
+    {
+      "type": "text",
+      "text": "Illustrative water-level signals",
+      "x": 15.051851866666668,
+      "y": 10.39090909090909,
+      "font": "title",
+      "font_size": 30
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          15.051851866666668,
+          24.245454545454546
+        ],
+        [
+          96.70814824333334,
+          24.765000000000004
+        ],
+        [
+          183.0305186986667,
+          23.899090909090912
+        ],
+        [
+          248.35555580000002,
+          24.245454545454546
+        ]
+      ],
+      "color": "#DCC7EB",
+      "line_width": 2.4
+    },
+    {
+      "type": "text",
+      "text": "Synthetic teaching example with an analytic reference signal.",
+      "x": 15.051851866666668,
+      "y": 34.63636363636364,
+      "font": "body",
+      "font_size": 18
+    },
+    {
+      "type": "text",
+      "text": "Conceptual apparatus",
+      "x": 13.170370383333335,
+      "y": 51.95454545454546,
+      "font": "hand",
+      "font_size": 24
+    },
+    {
+      "type": "image",
+      "path": "../art/signal-scene.png",
+      "x": 9.407407416666668,
+      "y": 65.80909090909091,
+      "width": 148.63703718333335,
+      "height": 91.78636363636365
+    },
+    {
+      "type": "text",
+      "text": "Every point comes from CSV",
+      "x": 174.97777795000002,
+      "y": 51.95454545454546,
+      "font": "hand",
+      "font_size": 24
+    },
+    {
+      "type": "image",
+      "path": "plot-ppt.png",
+      "x": 169.3333335,
+      "y": 65.80909090909091,
+      "width": 159.92592608333334,
+      "height": 98.71363636363637
+    },
+    {
+      "type": "text",
+      "text": "Art explains the apparatus;\nCSV fixes every plotted point.",
+      "x": 13.170370383333335,
+      "y": 166.25454545454545,
+      "font": "body",
+      "font_size": 18
+    },
+    {
+      "type": "math",
+      "text": "u(t)=1.2+0.3\\sin(2\\pi t/24)",
+      "x": 173.09629646666667,
+      "y": 169.71818181818182,
+      "font_size": 20
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "手绘科研配图"
+  short_description: "Natural scientific sketches for paper figures and research slides"
+  default_prompt: "Use $handdrawn-scientific-figures to create a source-grounded scientific illustration with a natural hand-drawn style."
+policy:
+  allow_implicit_invocation: true
+

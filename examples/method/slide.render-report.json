@@ -1,0 +1,278 @@
+{
+  "profile": "ppt",
+  "dimensions": {
+    "width_mm": 338.666667,
+    "height_mm": 190.5,
+    "dpi": 288.0,
+    "pixels": [
+      3840,
+      2160
+    ]
+  },
+  "outputs": [
+    "slide.png",
+    "slide.pdf",
+    "slide.svg",
+    "slide.render-report.json",
+    "slide.pptx"
+  ],
+  "images": [
+    {
+      "layer": 3,
+      "path": "../art/method-1.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        17.14713808787879,
+        53.68636363636364,
+        48.49090909090909,
+        48.49090909090909
+      ],
+      "effective_dpi": 268.19047619047615
+    },
+    {
+      "layer": 4,
+      "path": "../art/method-2.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        19.744865360606063,
+        110.83636363636364,
+        43.29545454545455,
+        43.29545454545455
+      ],
+      "effective_dpi": 300.37333333333333
+    },
+    {
+      "layer": 5,
+      "path": "../art/method-3.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        90.31111120000001,
+        70.07449492727274,
+        45.15555560000001,
+        45.15555560000001
+      ],
+      "effective_dpi": 287.99999971653534
+    },
+    {
+      "layer": 6,
+      "path": "../art/method-4.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        154.28148163333336,
+        52.873905692424245,
+        63.97037043333334,
+        63.97037043333334
+      ],
+      "effective_dpi": 203.2941174469661
+    },
+    {
+      "layer": 7,
+      "path": "../art/method-5.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        227.65925948333336,
+        72.89671715227274,
+        39.511111150000005,
+        39.511111150000005
+      ],
+      "effective_dpi": 329.1428568188976
+    },
+    {
+      "layer": 8,
+      "path": "../art/method-6.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        282.22222250000004,
+        64.87904038181819,
+        45.15555560000001,
+        45.15555560000001
+      ],
+      "effective_dpi": 287.99999971653534
+    }
+  ],
+  "texts": [
+    {
+      "layer": 0,
+      "type": "text",
+      "text": "Field height estimation",
+      "font": "title",
+      "font_size_pt": 30.0,
+      "bounds_mm": [
+        15.051851866666668,
+        10.39090909090909,
+        109.17896406809488,
+        11.29274739583333
+      ]
+    },
+    {
+      "layer": 2,
+      "type": "text",
+      "text": "Conceptual teaching workflow with a shared vertical reference.",
+      "font": "body",
+      "font_size_pt": 18.0,
+      "bounds_mm": [
+        15.051851866666668,
+        32.904545454545456,
+        200.09929003906245,
+        6.145609374999999
+      ]
+    },
+    {
+      "layer": 9,
+      "type": "text",
+      "text": "Field camera",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        13.170370383333335,
+        102.17727272727274,
+        38.10845555623372,
+        6.1462708333333325
+      ]
+    },
+    {
+      "layer": 10,
+      "type": "text",
+      "text": "Ground reference",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        13.170370383333335,
+        155.86363636363637,
+        52.80579100545246,
+        6.155531249999996
+      ]
+    },
+    {
+      "layer": 11,
+      "type": "text",
+      "text": "Align",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        90.31111120000001,
+        121.22727272727273,
+        15.265396382649737,
+        8.63600000000001
+      ]
+    },
+    {
+      "layer": 12,
+      "type": "text",
+      "text": "Estimate",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        150.5185186666667,
+        121.22727272727273,
+        26.65332659912109,
+        6.129072916666658
+      ]
+    },
+    {
+      "layer": 13,
+      "type": "text",
+      "text": "Check",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        223.8962965166667,
+        121.22727272727273,
+        17.838997690836585,
+        6.096000000000004
+      ]
+    },
+    {
+      "layer": 14,
+      "type": "text",
+      "text": "Review",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        282.22222250000004,
+        119.49545454545455,
+        19.21879977416992,
+        5.672666666666672
+      ]
+    },
+    {
+      "layer": 20,
+      "type": "text",
+      "text": "Pass",
+      "font": "body",
+      "font_size_pt": 18.0,
+      "bounds_mm": [
+        267.17037063333333,
+        76.2,
+        13.118331054687498,
+        4.719835937499994
+      ]
+    },
+    {
+      "layer": 22,
+      "type": "text",
+      "text": "Fail: realign",
+      "font": "hand",
+      "font_size_pt": 24.0,
+      "bounds_mm": [
+        154.28148163333336,
+        157.59545454545454,
+        35.85711752319335,
+        8.635999999999996
+      ]
+    },
+    {
+      "layer": 23,
+      "type": "math",
+      "text": "$h = z_{\\mathrm{top}} - z_{\\mathrm{floor}}$",
+      "font": "body",
+      "font_size_pt": 20.0,
+      "bounds_mm": [
+        150.5185186666667,
+        138.54545454545456,
+        43.35501085069444,
+        7.053460937500006
+      ]
+    },
+    {
+      "layer": 24,
+      "type": "text",
+      "text": "Exact labels and feedback are editable layers.",
+      "font": "body",
+      "font_size_pt": 18.0,
+      "bounds_mm": [
+        15.051851866666668,
+        178.37727272727273,
+        145.53542675781247,
+        6.145609374999992
+      ]
+    }
+  ],
+  "bounds_warnings": [],
+  "missing_resources": [],
+  "errors": [],
+  "limitations": [
+    "Raster illustrations remain bitmap assets in all exports.",
+    "PPTX MathText formulas are raster images; PDF/SVG formulas remain vector.",
+    "PPTX text is editable but fonts are referenced, not embedded; install bundled fonts on the viewing device.",
+    "PPTX decorative rough rectangles use editable straight outlines."
+  ]
+}

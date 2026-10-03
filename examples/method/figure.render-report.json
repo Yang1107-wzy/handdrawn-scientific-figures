@@ -1,0 +1,274 @@
+{
+  "profile": "paper",
+  "dimensions": {
+    "width_mm": 180.0,
+    "height_mm": 110.0,
+    "dpi": 300.0,
+    "pixels": [
+      2126,
+      1299
+    ]
+  },
+  "outputs": [
+    "figure.png",
+    "figure.pdf",
+    "figure.svg",
+    "figure.render-report.json"
+  ],
+  "images": [
+    {
+      "layer": 3,
+      "path": "../art/method-1.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        8.0,
+        31.0,
+        28.0,
+        28.0
+      ],
+      "effective_dpi": 464.4571428571428
+    },
+    {
+      "layer": 4,
+      "path": "../art/method-2.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        9.5,
+        64.0,
+        25.0,
+        25.0
+      ],
+      "effective_dpi": 520.192
+    },
+    {
+      "layer": 5,
+      "path": "../art/method-3.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        48.0,
+        41.5,
+        24.0,
+        24.0
+      ],
+      "effective_dpi": 541.8666666666666
+    },
+    {
+      "layer": 6,
+      "path": "../art/method-4.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        82.0,
+        32.0,
+        34.0,
+        34.0
+      ],
+      "effective_dpi": 382.4941176470588
+    },
+    {
+      "layer": 7,
+      "path": "../art/method-5.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        121.0,
+        43.0,
+        21.0,
+        21.0
+      ],
+      "effective_dpi": 619.2761904761904
+    },
+    {
+      "layer": 8,
+      "path": "../art/method-6.png",
+      "source_pixels": [
+        512,
+        512
+      ],
+      "placed_bounds_mm": [
+        150.0,
+        38.5,
+        24.0,
+        24.0
+      ],
+      "effective_dpi": 541.8666666666666
+    }
+  ],
+  "texts": [
+    {
+      "layer": 0,
+      "type": "text",
+      "text": "Field height estimation",
+      "font": "title",
+      "font_size_pt": 16.0,
+      "bounds_mm": [
+        8.0,
+        6.0,
+        58.22878083631727,
+        6.02279861111111
+      ]
+    },
+    {
+      "layer": 2,
+      "type": "text",
+      "text": "Conceptual teaching workflow with a shared vertical reference.",
+      "font": "body",
+      "font_size_pt": 8.5,
+      "bounds_mm": [
+        8.0,
+        19.0,
+        94.49133140733507,
+        2.9020933159722233
+      ]
+    },
+    {
+      "layer": 9,
+      "type": "text",
+      "text": "Field camera",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        7.0,
+        59.0,
+        15.87852314843072,
+        2.560946180555554
+      ]
+    },
+    {
+      "layer": 10,
+      "type": "text",
+      "text": "Ground reference",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        7.0,
+        90.0,
+        22.00241291893853,
+        2.5648046875000006
+      ]
+    },
+    {
+      "layer": 11,
+      "type": "text",
+      "text": "Align inputs",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        48.0,
+        70.0,
+        15.1160831451416,
+        3.6159722222222257
+      ]
+    },
+    {
+      "layer": 12,
+      "type": "text",
+      "text": "Estimate height",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        80.0,
+        70.0,
+        19.967437540690106,
+        3.626445312499996
+      ]
+    },
+    {
+      "layer": 13,
+      "type": "text",
+      "text": "Quality check",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        119.0,
+        70.0,
+        17.194163665771484,
+        3.612113715277772
+      ]
+    },
+    {
+      "layer": 14,
+      "type": "text",
+      "text": "Staff review",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        150.0,
+        69.0,
+        15.334915610419378,
+        2.560946180555561
+      ]
+    },
+    {
+      "layer": 20,
+      "type": "text",
+      "text": "Pass",
+      "font": "body",
+      "font_size_pt": 8.5,
+      "bounds_mm": [
+        142.0,
+        44.0,
+        6.194767442491319,
+        2.2288114149305542
+      ]
+    },
+    {
+      "layer": 22,
+      "type": "text",
+      "text": "Fail: realign",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        82.0,
+        91.0,
+        14.9404656346639,
+        3.598333333333329
+      ]
+    },
+    {
+      "layer": 23,
+      "type": "math",
+      "text": "$h = z_{\\mathrm{top}} - z_{\\mathrm{floor}}$",
+      "font": "body",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        80.0,
+        80.0,
+        21.67750542534722,
+        3.526730468750003
+      ]
+    },
+    {
+      "layer": 24,
+      "type": "text",
+      "text": "Exact labels and feedback are editable layers.",
+      "font": "body",
+      "font_size_pt": 8.5,
+      "bounds_mm": [
+        8.0,
+        103.0,
+        68.72506263563368,
+        2.9020933159722233
+      ]
+    }
+  ],
+  "bounds_warnings": [],
+  "missing_resources": [],
+  "errors": [],
+  "limitations": [
+    "Raster illustrations remain bitmap assets in all exports."
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "profile": "paper",
+  "dimensions": {
+    "width_mm": 180.0,
+    "height_mm": 110.0,
+    "dpi": 300.0,
+    "pixels": [
+      2126,
+      1299
+    ]
+  },
+  "outputs": [
+    "figure.png",
+    "figure.pdf",
+    "figure.svg",
+    "figure.render-report.json"
+  ],
+  "images": [
+    {
+      "layer": 4,
+      "path": "../art/signal-scene.png",
+      "source_pixels": [
+        1536,
+        1024
+      ],
+      "placed_bounds_mm": [
+        5.0,
+        38.16666666666667,
+        79.0,
+        52.666666666666664
+      ],
+      "effective_dpi": 493.853164556962
+    },
+    {
+      "layer": 6,
+      "path": "plot.png",
+      "source_pixels": [
+        1003,
+        673
+      ],
+      "placed_bounds_mm": [
+        90.02526002971769,
+        38.0,
+        84.94947994056464,
+        57.0
+      ],
+      "effective_dpi": 299.8982456140351
+    }
+  ],
+  "texts": [
+    {
+      "layer": 0,
+      "type": "text",
+      "text": "Illustrative water-level signals",
+      "font": "title",
+      "font_size_pt": 16.0,
+      "bounds_mm": [
+        8.0,
+        6.0,
+        75.82709683566623,
+        6.02279861111111
+      ]
+    },
+    {
+      "layer": 2,
+      "type": "text",
+      "text": "Synthetic teaching example with an analytic reference signal.",
+      "font": "body",
+      "font_size_pt": 8.5,
+      "bounds_mm": [
+        8.0,
+        20.0,
+        92.33766097005208,
+        2.9020933159722233
+      ]
+    },
+    {
+      "layer": 3,
+      "type": "text",
+      "text": "Conceptual apparatus",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        7.0,
+        30.0,
+        27.248218366834855,
+        3.6159722222222186
+      ]
+    },
+    {
+      "layer": 5,
+      "type": "text",
+      "text": "Every point comes from CSV",
+      "font": "hand",
+      "font_size_pt": 10.0,
+      "bounds_mm": [
+        93.0,
+        30.0,
+        36.787987060546875,
+        3.6231380208333306
+      ]
+    },
+    {
+      "layer": 7,
+      "type": "text",
+      "text": "Art explains the apparatus;\nCSV fixes every plotted point.",
+      "font": "body",
+      "font_size_pt": 8.5,
+      "bounds_mm": [
+        7.0,
+        96.0,
+        44.08924682617187,
+        6.800287760416666
+      ]
+    },
+    {
+      "layer": 8,
+      "type": "math",
+      "text": "$u(t)=1.2+0.3\\sin(2\\pi t/24)$",
+      "font": "body",
+      "font_size_pt": 9.5,
+      "bounds_mm": [
+        92.0,
+        98.0,
+        37.96416677517361,
+        3.3513888888888914
+      ]
+    }
+  ],
+  "bounds_warnings": [],
+  "missing_resources": [],
+  "errors": [],
+  "limitations": [
+    "Raster illustrations remain bitmap assets in all exports."
+  ]
+}

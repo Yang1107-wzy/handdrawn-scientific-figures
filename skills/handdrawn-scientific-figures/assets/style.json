@@ -1,0 +1,71 @@
+{
+  "name": "handdrawn-scientific-figures",
+  "version": "0.1.0",
+  "palette": {
+    "white": "#FFFFFF",
+    "ink": "#252525",
+    "warm_gray": "#F1F1EF",
+    "inactive": "#E7E8EA",
+    "blue": "#BFD8F0",
+    "lavender": "#DCC7EB",
+    "yellow": "#FFE5A3",
+    "orange": "#F2B37E",
+    "mint": "#C8E6C1",
+    "coral": "#F3B7B0"
+  },
+  "fonts": {
+    "title": {
+      "file": "fonts/Kalam-Bold.ttf",
+      "family": "Kalam"
+    },
+    "hand": {
+      "file": "fonts/PatrickHand-Regular.ttf",
+      "family": "Patrick Hand"
+    },
+    "body": {
+      "file": "fonts/DejaVuSans.ttf",
+      "family": "DejaVu Sans"
+    },
+    "bold": {
+      "file": "fonts/DejaVuSans-Bold.ttf",
+      "family": "DejaVu Sans"
+    }
+  },
+  "profiles": {
+    "paper": {
+      "width_mm": 180,
+      "height_mm": 110,
+      "dpi": 300,
+      "title_pt": 16,
+      "label_pt": 10,
+      "body_pt": 8.5,
+      "minimum_text_pt": 8
+    },
+    "ppt": {
+      "width_mm": 338.666667,
+      "height_mm": 190.5,
+      "pixels": [
+        3840,
+        2160
+      ],
+      "title_pt": 30,
+      "label_pt": 24,
+      "body_pt": 18,
+      "minimum_text_pt": 18
+    }
+  },
+  "lines": {
+    "outline_pt": 0.9,
+    "connector_pt": 1,
+    "illustrative_irregularity_mm": 0.18
+  },
+  "math": {
+    "engine": "matplotlib.mathtext",
+    "fontset": "cm"
+  },
+  "constraints": [
+    "Keep quantitative point coordinates and axis scales exact.",
+    "Illustrative irregularity applies only to decoration and conceptual outlines.",
+    "Treat generation prompts and presets as style guidance, not scientific evidence."
+  ]
+}
